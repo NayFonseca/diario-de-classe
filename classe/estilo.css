@@ -1,0 +1,11 @@
+html {
+    background-image: linear-gradient( #202124, #000);
+    background-attachment: fixed;
+    height: 100%;
+}
+body {
+    margin: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
+    color: #fff;
+}
